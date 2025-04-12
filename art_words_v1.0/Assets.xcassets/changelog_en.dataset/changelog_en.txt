@@ -1,0 +1,7 @@
+
+Art&Words Release 1.0.0
+
+03/06/2025
+
+  · Implement the functions of Android version 3.1
+
